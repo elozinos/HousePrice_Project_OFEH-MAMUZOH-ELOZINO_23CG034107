@@ -8,8 +8,9 @@ Machine Learning Algorithm Used: Random Forest Regressor
 Model Persistence Method Used: Joblib (.pkl)
 
 
-Live URL of the Hosted Application:
+Live URL of the Hosted Application:https://houseprice-project-ofeh-mamuzoh-elozino.onrender.com
 
 
 GitHub Repository https://github.com/elozinos/HousePrice_Project_OFEH-MAMUZOH-ELOZINO_23CG034107/tree/main
+
 
