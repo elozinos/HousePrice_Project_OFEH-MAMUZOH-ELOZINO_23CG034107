@@ -1,0 +1,14 @@
+Name: Eniola Eloh
+
+Matric Number: 23CG034064
+
+Machine Learning Algorithm Used: Random Forest Regressor
+
+
+Model Persistence Method Used: Joblib (.pkl)
+
+
+Live URL of the Hosted Application: https://houseprice-project-eloheniola-23cg034064.onrender.com/
+
+
+GitHub Repository Link: https://github.com/E-DOLLZ/HousePrice_Project_ElohEniola_23CG034064
