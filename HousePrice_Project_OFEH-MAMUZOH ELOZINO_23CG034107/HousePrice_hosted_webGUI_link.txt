@@ -1,6 +1,6 @@
-Name: Eniola Eloh
+Name: Ofeh-Mamuzoh Elozino Shekinah
 
-Matric Number: 23CG034064
+Matric Number: 23CG034107
 
 Machine Learning Algorithm Used: Random Forest Regressor
 
@@ -8,7 +8,8 @@ Machine Learning Algorithm Used: Random Forest Regressor
 Model Persistence Method Used: Joblib (.pkl)
 
 
-Live URL of the Hosted Application: https://houseprice-project-eloheniola-23cg034064.onrender.com/
+Live URL of the Hosted Application:
 
 
-GitHub Repository Link: https://github.com/E-DOLLZ/HousePrice_Project_ElohEniola_23CG034064
+GitHub Repository https://github.com/elozinos/HousePrice_Project_OFEH-MAMUZOH-ELOZINO_23CG034107/tree/main
+
